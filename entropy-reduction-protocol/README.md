@@ -1,0 +1,3 @@
+# Entropy control protocol:
+
+-- todo
