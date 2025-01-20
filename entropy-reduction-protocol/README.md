@@ -11,7 +11,7 @@ Here are the set of rules we came up with:
 
 Given a group of systems, their sibling systems, their parent "supersystem", and their child "subsystems"
 ---------------------------------------------------------------------------------------------------------
-![drawing of systems, siblings, parents, and children](https://www.github.com/jaden-hoenes/dont-diedeas/tree/main/entropy-reduction-protocol/systems.png)
+![drawing of systems, siblings, parents, and children](./systems.png)
 
 > 1. A system defines its' communication protocol
 > 2. A system communicates to its' subsystem and the subsystem responds
@@ -44,7 +44,7 @@ It is characterized by 3 main values:
 
 Next we need a set of systems to consider, in a concentric ring pattern.
 ------------------------------------------------------------------------
-![A concentric ring diagram of our systems](https://www.github.com/jaden-hoenes/dont-diedeas/tree/main/entropy-reduction-protocol/rings.png)
+![A concentric ring diagram of our systems](./rings.png)
 
 > 1. Individual
 > 2. Household
